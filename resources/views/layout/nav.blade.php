@@ -16,7 +16,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
             <li class="nav-item {{ Request::segment(1) === 'index' ? 'active' : null }}">
-                <a class="nav-link "  href="{{ URL::to('/index') }}">Home</a>
+                <a class="nav-link "  href="{{ URL::to('/') }}">Home</a>
             </li>
             <li class="nav-item {{ Request::segment(1) === 'shop' ? 'active' : null }}">
                 <a class="nav-link" href="{{ URL::to('/shop') }}">Shopping</a>

@@ -63,7 +63,7 @@
         <br>
         <div style="height:1px;background:#a09292;"></div>
         <br>
-        <p align="center" style="color:#a09292;font-family:arial;font-size:12px;">Developed By : Min Aung Paing</p>
+        <p align="center" style="color:#a09292;font-family:arial;font-size:12px;">Developed By : Min Aung Paing && Kaung Sat Kyaw</p>
         <div style="height:50px;"></div>
     </div>
 </div>
